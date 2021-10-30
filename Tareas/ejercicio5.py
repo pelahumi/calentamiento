@@ -42,5 +42,5 @@ if hambre < 85:
     print("Necesito más helado")
 else:
     print("Estoy lleno")
-    print("Me quedan: " + str(dinero) + " euros")
+    print("Me quedan: " + str(dinero) + "€")
     print("Estoy al " + str(hambre) + " de mi capacidad")
